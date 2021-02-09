@@ -1,4 +1,4 @@
 multiply py
-    def multiply(a,b):
+    def multiply_val(a,b):
         multiply=a*b
         return multiply
